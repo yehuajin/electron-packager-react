@@ -1,5 +1,5 @@
 {
-  "name": "desk-app-demo",
+  "name": "electron-packager-react",
   "version": "0.1.0",
   "private": true,
   "main": "main.js",
@@ -31,9 +31,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "electron": "^4.1.1",
     "electron-packager": "^13.1.1",
     "extract-zip": "^1.6.7",
-    "yargs-parser": "^13.0.0",
-    "electron": "^4.1.1"
+    "yargs-parser": "^13.0.0"
   }
 }
