@@ -10,7 +10,7 @@ electron-builder打出的包更为轻量，并且可以打包出不暴露源码�
 #运行如下命令
 yarn // 安装依赖
 
-yarn builder
+yarn build
 
 yarn packageWin // 生成windows系统下的桌面应用
 
